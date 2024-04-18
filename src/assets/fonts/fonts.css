@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'HankenGrotesk';
+    src: url('./inter/HankenGrotesk-Italic-VariableFont_wght.ttf') format('truetype');
+}
+
+/* @font-face {
+    font-family: 'Trap';
+    src: url('./Trap/Static/') format('truetype');
+} */
+
+.some-div {
+    background: #f2f4f5;
+}
