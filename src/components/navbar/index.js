@@ -31,7 +31,6 @@ function Navbar() {
                             <span className="NavLink" onClick={() => navigate("/testimonials")}>Testimonials</span>
                             <span className="NavLink" onClick={() => navigate("/about")}>About Us </span>
                             <span className="NavLink" onClick={() => navigate("/contact")}>Contact </span>
-                            // <span className="NavLink" >Privacy Policy </span>
                             <button className="Quote-Button" onClick={() => navigate("/quote")} >Request a quote</button>
                         </div>
 
