@@ -27,7 +27,7 @@ function Navbar() {
                             >
                                 How it works
                             </span>
-                            <span className="NavLink" onClick={() => navigate("/blog")}>Pricing</span>
+                            <span className="NavLink" onClick={() => navigate("/blog")}>Blog</span>
                             <span className="NavLink" onClick={() => navigate("/testimonials")}>Testimonials</span>
                             <span className="NavLink" onClick={() => navigate("/about")}>About Us </span>
                             <span className="NavLink" onClick={() => navigate("/contact")}>Contact </span>
