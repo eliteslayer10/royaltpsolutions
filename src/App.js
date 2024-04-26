@@ -8,6 +8,7 @@ import Testimonials from "./pages/Testimonials/index";
 import TheBlog from "./pages/The-Blog/index";
 import About from "./pages/About-us/index"
 import Contact from "./pages/Contact/index"
+import Privacypolicy from "./pages/Privacy-policy/index"
 function App() {
   return (
     <Router>
@@ -19,6 +20,7 @@ function App() {
         <Route path="/about" element={< About />} />
         <Route path="/contact" element={< Contact />} />
         <Route path="/blog" element={< TheBlog />} />
+        <Route path="/privacy-policy" element={< Privacypolicy />} />
       </Routes>
     </Router>
   );

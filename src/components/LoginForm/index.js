@@ -113,9 +113,13 @@ function Cards() {
                         // onChange={handleCheckboxChange}
                         />
                         <p className="disclaimer-text">
-                            By submitting this form and signing up for texts, you consent to receive up to two marketing text messages per month from Royal Tier Property Solutions LLC at the number provided. Consent is not a condition of purchase. Msg & data rates may apply. You can unsubscribe at any time by replying STOP. For more information on how we use your data, please review our <a href="/privacy-policy">Privacy Policy</a>.
+                            I have read and agree to the <a href="/privacy-policy">Privacy Policy</a>.
+                            <br/>
                         </p>
                     </div>
+                    <p className="disclaimer-text">
+                            By submitting this form and signing up for texts, you consent to receive up to two marketing text messages per month from Royal Tier Property Solutions LLC at the number provided. Consent is not a condition of purchase. Msg & data rates may apply. You can unsubscribe at any time by replying STOP. For more information on how we use your data, please review our <a href="/privacy-policy">Privacy Policy</a>.
+                        </p>
 
 
 
