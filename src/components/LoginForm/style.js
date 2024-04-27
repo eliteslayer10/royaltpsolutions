@@ -381,7 +381,7 @@ justify-content: center;
 
 }
 .disclaimer-text {
-    font-size: 10px;
+    font-size: 13px;
 margin-top: 15px;
     color: #203978;
     font-weight: 500;
