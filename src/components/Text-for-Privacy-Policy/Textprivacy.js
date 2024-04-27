@@ -9,7 +9,7 @@ function TextBlog() {
 
                     <div className='Text-Section'>
                         <span className='Title'>Messaging Privacy Policy</span>
-                        <p className='Text'>This Messaging Program Privacy Policy explains how ADD YOUR COMPANY NAME collects and uses information about you in relation to its text message marketing program (the “Messaging Service”). We use a third-party service called Launch Control to provide the Messaging Service to you. For the purposes of the Messaging Service, Launch Control acts as our service provider and data processor of your information.</p>
+                        <p className='Text'>This Messaging Program Privacy Policy explains how Royal Tier Property Solutions collects and uses information about you in relation to its text message marketing program (the “Messaging Service”). We use a third-party service called Launch Control to provide the Messaging Service to you. For the purposes of the Messaging Service, Launch Control acts as our service provider and data processor of your information.</p>
 
                     </div>
                 </div>
@@ -46,7 +46,7 @@ function TextBlog() {
                         <span className='Title'>Sharing of Information</span>
                         <p className='Text'>We may share, transfer, or disclose your information, if you consent to us doing so, as well as in the following circumstances:</p>
                         <p className='Text'>Service Providers. We may share your information with third parties to help us provide the Messaging Service to you.</p>
-                        <p className='Text'>Legal Requirement and Protection of ADD YOUR COMPANY NAME and Others We may disclose your information as we believe such disclosure is necessary or appropriate to: 
+                        <p className='Text'>Legal Requirement and Protection of Royal Tier Property Solutions and Others We may disclose your information as we believe such disclosure is necessary or appropriate to: 
                         <br/>(i) comply with applicable law and legal processes; <br/>(ii) respond to requests from public and government authorities, including public and government authorities outside your country of residence; <br/>(iii) enforce a contract with us; <br/>(iv) protect our rights, privacy, safety, or property, and/or that of our affiliates, you or others; and <br/>(v) allow us to pursue available remedies or limit the damages that we may sustain.</p>
                         <p className='Text'>From time to time, we may share aggregate or de-identified information about the use of the Messaging Service and such aggregated or de-identified information may be shared with any third party, including advertisers, promotional partners, and sponsors.</p>
                         <p className='Text'>No mobile information will be shared with third parties/affiliates for marketing/promotional purposes. All the above categories exclude text messaging originator opt-in data and consent. This information will not be shared with any third parties.</p>
@@ -79,7 +79,7 @@ function TextBlog() {
                 <div className='Image-Text-Section'>
                     <div className='Text-Section'>
                         <span className='Title'>CONTACT US</span>
-                        <p className='Text'>If you have any questions, concerns, or requests related to this Privacy Policy, please contact us at YOUR EMAIL ADDRESS</p>
+                        <p className='Text'>If you have any questions, concerns, or requests related to this Privacy Policy, please contact us at royaltierpropertysolutions@gmail.com</p>
                         <p className='Text'>Last Updated: 12/9/2023</p>
                     </div>
                 </div>

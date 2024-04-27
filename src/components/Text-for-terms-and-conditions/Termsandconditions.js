@@ -8,8 +8,8 @@ function TextBlog() {
                 <div className='Image-Text-Section'>
 
                     <div className='Text-Section'>
-                        <span className='Title'>ADD YOUR COMPANY NAME Messaging Terms & Conditions</span>
-                        <p className='Text'>You agree to receive recurring automated promotional and personalized marketing text (e.g., SMS and MMS) messages (e.g. cart reminders) from ADD YOUR BRAND NAME/DBA, a brand owned and operated by ADD YOUR COMPANY NAME, including text messages that may be sent using an automatic telephone dialing system, to the mobile telephone number you provided when signing up or any other number that you designate. Consent to receive automated marketing text messages is not a condition of any purchase. Msg & Data rates may apply. Message frequency will vary. ADD YOUR COMPANY NAME reserves the right to alter the frequency of messages sent at any time, so as to increase or decrease the total number of sent messages. ADD YOUR COMPANY NAME also reserves the right to change the short code or phone number from which messages are sent and we will notify you when we do so Not all mobile devices or handsets may be supported and our messages may not be deliverable in all areas. ADD YOUR COMPANY NAME, its service providers, and the mobile carriers supported by the program are not liable for delayed or undelivered messages.</p>
+                        <span className='Title'>Royal Tier Property Solutions Messaging Terms & Conditions</span>
+                        <p className='Text'>You agree to receive recurring automated promotional and personalized marketing text (e.g., SMS and MMS) messages (e.g. cart reminders) from Royal Tier Property Solutions, a brand owned and operated by Royal Tier Property Solutions, including text messages that may be sent using an automatic telephone dialing system, to the mobile telephone number you provided when signing up or any other number that you designate. Consent to receive automated marketing text messages is not a condition of any purchase. Msg & Data rates may apply. Message frequency will vary. Royal Tier Property Solutions reserves the right to alter the frequency of messages sent at any time, so as to increase or decrease the total number of sent messages. Royal Tier Property Solutions also reserves the right to change the short code or phone number from which messages are sent and we will notify you when we do so Not all mobile devices or handsets may be supported and our messages may not be deliverable in all areas. Royal Tier Property Solutions, its service providers, and the mobile carriers supported by the program are not liable for delayed or undelivered messages.</p>
                         <p className='Text'>We are able to deliver messages to the following mobile phone carriers: AT&T, Verizon Wireless, Sprint, T-Mobile, and other major national and regional carriers.</p>
 
                     </div>
@@ -32,7 +32,7 @@ function TextBlog() {
                 <div className='Image-Text-Section'>
                     <div className='Text-Section'>
                         <span className='Title'>Customer Care</span>
-                        <p className='Text'>If you are experiencing any problems, please email the address of the brand.</p>
+                        <p className='Text'>If you are experiencing any problems, please email at royaltierpropertysolutions@gmail.com.</p>
 
                     </div>
 
