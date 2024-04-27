@@ -8,67 +8,39 @@ function TextBlog() {
                 <div className='Image-Text-Section'>
 
                     <div className='Text-Section'>
-                        <span className='Title'>1. Acceptance of Terms</span>
-                        <p className='Text'>By accessing or using our website and services, you agree to be bound by these Terms and Conditions. If you do not agree with any part of these Terms and Conditions, you may not access or use our website and services.</p>
+                        <span className='Title'>ADD YOUR COMPANY NAME Messaging Terms & Conditions</span>
+                        <p className='Text'>You agree to receive recurring automated promotional and personalized marketing text (e.g., SMS and MMS) messages (e.g. cart reminders) from ADD YOUR BRAND NAME/DBA, a brand owned and operated by ADD YOUR COMPANY NAME, including text messages that may be sent using an automatic telephone dialing system, to the mobile telephone number you provided when signing up or any other number that you designate. Consent to receive automated marketing text messages is not a condition of any purchase. Msg & Data rates may apply. Message frequency will vary. ADD YOUR COMPANY NAME reserves the right to alter the frequency of messages sent at any time, so as to increase or decrease the total number of sent messages. ADD YOUR COMPANY NAME also reserves the right to change the short code or phone number from which messages are sent and we will notify you when we do so Not all mobile devices or handsets may be supported and our messages may not be deliverable in all areas. ADD YOUR COMPANY NAME, its service providers, and the mobile carriers supported by the program are not liable for delayed or undelivered messages.</p>
+                        <p className='Text'>We are able to deliver messages to the following mobile phone carriers: AT&T, Verizon Wireless, Sprint, T-Mobile, and other major national and regional carriers.</p>
 
                     </div>
                 </div>
                 <div className='Image-Text-Section'>
                     <div className='Text-Section'>
-                        <span className='Title'>2. Use of Website and Services</span>
-                        <p className='Text'>You agree to use our website and services only for lawful purposes and in accordance with these Terms and Conditions. You may not use our website and services for any illegal or unauthorized purpose.</p>
+                        <span className='Title'>Cancellation</span>
+                        <p className='Text'>Text the keywords STOP, END, CANCEL, UNSUBSCRIBE or QUIT to cancel. After texting STOP, END, CANCEL, UNSUBSCRIBE, or QUIT you will receive one additional message confirming that your request has been processed. You acknowledge that our text message platform may not recognize and respond to unsubscribe requests that do not include the STOP, END, CANCEL, UNSUBSCRIBE, or QUIT keyword commands and agree that Launch Control and its service providers will have no liability for failing to honor such requests.</p>
                     </div>
 
                 </div>
 
                 <div className='Image-Text-Section'>
                     <div className='Text-Section'>
-                        <span className='Title'>3. Privacy Policy</span>
-                        <p className='Text'>Your use of our website and services is also subject to our Privacy Policy. By using our website and services, you consent to the collection, use, and disclosure of your information as described in our Privacy Policy.</p>
+                        <span className='Title'>Help</span>
+                        <p className='Text'>Text the keyword HELP to return customer care contact information.</p>
                     </div>
 
                 </div>
                 <div className='Image-Text-Section'>
                     <div className='Text-Section'>
-                        <span className='Title'>4. Intellectual Property</span>
-                        <p className='Text'>All content on our website, including but not limited to text, graphics, logos, images, and software, is the property of Royal Tier Property Solutions LLC or its licensors and is protected by copyright and other intellectual property laws. You may not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell any content obtained from our website without our prior written consent.</p>
+                        <span className='Title'>Customer Care</span>
+                        <p className='Text'>If you are experiencing any problems, please email the address of the brand.</p>
 
                     </div>
 
                 </div>
                 <div className='Image-Text-Section'>
                     <div className='Text-Section'>
-                        <span className='Title'>5. Limitation of Liability</span>
-                        <p className='Text'>Royal Tier Property Solutions LLC shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to damages for loss of profits, goodwill, use, data, or other intangible losses arising out of or in connection with your use of our website and services.</p>
-                    </div>
-                </div>
-                <div className='Image-Text-Section'>
-                    <div className='Text-Section'>
-                        <span className='Title'>6. Indemnification</span>
-                        <p className='Text'>You agree to indemnify and hold harmless Royal Tier Property Solutions LLC, its officers, directors, employees, agents, and affiliates from and against any and all claims, liabilities, damages, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising out of or in connection with your use of our website and services or your violation of these Terms and Conditions.</p>
-                    </div>
-                </div>
-                <div className='Image-Text-Section'>
-                    <div className='Text-Section'>
-                        <span className='Title'>7. Governing Law</span>
-                        <p className='Text'>These Terms and Conditions shall be governed by and construed in accordance with the laws of United States. Any disputes relating to these Terms and Conditions shall be subject to the exclusive jurisdiction of the courts of United States.</p>
-                    </div>
-                </div>
-                <div className='Image-Text-Section'>
-                    <div className='Text-Section'>
-                        <span className='Title'>8. Changes to Terms and Conditions</span>
-                        <p className='Text'>We reserve the right to modify or replace these Terms and Conditions at any time without prior notice. Any changes to these Terms and Conditions will be effective immediately upon posting on our website. Your continued use of our website and services following the posting of any changes constitutes acceptance of those changes.</p>
-                    </div>
-                </div>
-                <div className='Image-Text-Section'>
-                    <div className='Text-Section'>
-                        <span className='Title'>9. Contact Us</span>
-                        <p className='Text'>If you have any questions, concerns, or requests regarding these Terms and Conditions, please contact us at royaltierpropertysolutions@gmail.com.</p>
-                    </div>
-                </div>
-                <div className='Image-Text-Section'>
-                    <div className='Text-Section'>
-                        <p className='Text'>By using our website and services, you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions.</p>
+                        <span className='Title'>Other Terms</span>
+                        <p className='Text'>These Messaging Terms & Conditions are a part of and subject to our <em>Terms of Use</em> and our <em>Privacy Policy</em> (collectively with these Messaging Terms & Conditions, the “Terms Documents”). By participating in our text message program, you agree to our Terms Documents. To the extent that a conflict exists between these Messaging Terms & Conditions and our <em>Terms of Use</em>, these Messaging Terms & Conditions will control.</p>
                     </div>
                 </div>
             </div>
