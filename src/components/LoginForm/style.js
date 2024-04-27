@@ -360,7 +360,7 @@ justify-content: center;
     
 }
  .disclaimer-text {
-  font-size: 8px;
+  font-size: 4px;
   margin-top: 15px;
   margin: auto;
   color: #203978;
