@@ -360,11 +360,13 @@ justify-content: center;
     
 }
  .disclaimer-text {
-    font-size: 13px;
-    margin-top: 15px;
-    color: #203978;
-    font-weight: 500;
-    width: 357px;
+  font-size: 8px;
+  margin-top: 15px;
+  margin: auto;
+  color: #203978;
+  font-weight: 500;
+  width: 357px;
+  text-align: center;
 }
 
   }
