@@ -9,6 +9,7 @@ import TheBlog from "./pages/The-Blog/index";
 import About from "./pages/About-us/index"
 import Contact from "./pages/Contact/index"
 import Privacypolicy from "./pages/Privacy-policy/index"
+import Termsandconditions from "./pages/Terms-and-conditions/index"
 function App() {
   return (
     <Router>
@@ -21,6 +22,7 @@ function App() {
         <Route path="/contact" element={< Contact />} />
         <Route path="/blog" element={< TheBlog />} />
         <Route path="/privacy-policy" element={< Privacypolicy />} />
+        <Route path="/terms-and-conditions" element={< Termsandconditions />} />
       </Routes>
     </Router>
   );
