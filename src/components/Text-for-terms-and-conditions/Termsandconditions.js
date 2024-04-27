@@ -32,7 +32,7 @@ function TextBlog() {
                 <div className='Image-Text-Section'>
                     <div className='Text-Section'>
                         <span className='Title'>Customer Care</span>
-                        <p className='Text'>If you are experiencing any problems, please email at royaltierpropertysolutions@gmail.com.</p>
+                        <p className='Text'>If you are experiencing any problems, please email us at: royaltierpropertysolutions@gmail.com.</p>
 
                     </div>
 

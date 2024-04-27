@@ -79,8 +79,7 @@ function TextBlog() {
                 <div className='Image-Text-Section'>
                     <div className='Text-Section'>
                         <span className='Title'>CONTACT US</span>
-                        <p className='Text'>If you have any questions, concerns, or requests related to this Privacy Policy, please contact us at royaltierpropertysolutions@gmail.com</p>
-                        <p className='Text'>Last Updated: 12/9/2023</p>
+                        <p className='Text'>If you have any questions, concerns, or requests related to this Privacy Policy, please contact us at: royaltierpropertysolutions@gmail.com</p>
                     </div>
                 </div>
 
